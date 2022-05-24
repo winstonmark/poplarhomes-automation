@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Back</name>
+   <tag></tag>
+   <elementGuidId>d0c2d19a-a965-42ae-896d-b1ac599980f3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[2]/form/fieldset/footer/div/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-secondary</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>b74463d8-e501-4efd-b4ec-54a2629fdd3a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-secondary</value>
+      <webElementGuid>bbee990d-69a6-4865-8ba1-aad3d6ad373a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Back</value>
+      <webElementGuid>4fada9fe-c9eb-4f78-95fe-14e08870ce9a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;new-property&quot;]/div[@class=&quot;new-property flex flex-col items-center pt-6 sm:pt-20 p-4&quot;]/div[@class=&quot;pop-card box-border p-4 bg-white rounded-lg shadow mobile-l:py-8 mobile-l:px-6 w-full max-w-2xl mt-6 margin-auto mobile-l:px-8&quot;]/form[1]/fieldset[1]/footer[1]/div[@class=&quot;actions mt-2 sm:mt-6 flex justify-between sm:justify-end space-x-4&quot;]/button[@class=&quot;btn btn-secondary&quot;]</value>
+      <webElementGuid>35184160-6ba2-4854-9eb4-fbf3123e5e34</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/form/fieldset/footer/div/button</value>
+      <webElementGuid>d8bf3491-eca9-4673-97e4-4f6c6adb8a08</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No, renters live here'])[1]/following::button[1]</value>
+      <webElementGuid>7bfc88ee-16e1-4c83-aefe-8a98da5205f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No, I live here'])[1]/following::button[2]</value>
+      <webElementGuid>fdd42c7c-f771-4cb8-8b02-2f3822e54590</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Submit'])[1]/preceding::button[1]</value>
+      <webElementGuid>8a15aa69-3598-4871-82c3-69f5474720fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Capture object:'])[1]/preceding::button[2]</value>
+      <webElementGuid>f60f3c58-0ae9-4ff5-8658-7762a72279de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Back']/parent::*</value>
+      <webElementGuid>ace44cc0-bcec-4868-8cff-0157f9476314</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//footer/div/button</value>
+      <webElementGuid>3a40fac1-8445-444f-a1f1-f11dd6ae3d24</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Back' or . = 'Back')]</value>
+      <webElementGuid>daca385e-cade-4b6a-97b3-d6743ef88b59</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

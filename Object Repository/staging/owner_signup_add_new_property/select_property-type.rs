@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_property-type</name>
+   <tag></tag>
+   <elementGuidId>96cb63d3-378c-40ab-abc1-7f02e9465f48</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@name='type']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>select[name=&quot;type&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>1865f125-ea9a-4bb3-a77a-4d8f44505592</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>type</value>
+      <webElementGuid>ce542dd0-f0d8-46c2-a9ef-d7d4af7f31ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>input-select bg-white focus:outline-none h-14 py-4 px-5 text-base border focus:ring-pop-orange focus:border-pop-orange border-pop-gray-200</value>
+      <webElementGuid>e52f3fa6-248b-45ee-b5ad-8e4fc3eb49b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select property typeApartmentDuplex/TriplexFourplexSingle Family HomeTownhouseCondo ApartmentCondo Duplex/TriplexCondo FourplexCondo Single Family HomeCondo Townhouse</value>
+      <webElementGuid>b3bc7aed-5d3d-4164-bc9b-6448f5123ce7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;new-property&quot;]/div[@class=&quot;new-property flex flex-col items-center pt-6 sm:pt-20 p-4&quot;]/div[@class=&quot;pop-card box-border p-4 bg-white rounded-lg shadow mobile-l:py-8 mobile-l:px-6 w-full max-w-2xl mt-6 margin-auto mobile-l:px-8&quot;]/form[1]/fieldset[1]/div[@class=&quot;property-details&quot;]/div[@class=&quot;form-content mt-10&quot;]/div[@class=&quot;name-inputs flex flex-col sm:flex-row sm:space-x-4 sm:mb-6&quot;]/div[@class=&quot;input-select-wrapper mt-0 mb-2 flex-1&quot;]/div[@class=&quot;relative&quot;]/select[@class=&quot;input-select bg-white focus:outline-none h-14 py-4 px-5 text-base border focus:ring-pop-orange focus:border-pop-orange border-pop-gray-200&quot;]</value>
+      <webElementGuid>99427756-8acd-4a96-b03d-68bdb8e3e190</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@name='type']</value>
+      <webElementGuid>e2146d9d-ba83-4f72-a98d-0856998bdae3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/form/fieldset/div[2]/div/div[2]/div/div/select</value>
+      <webElementGuid>fa296fe1-0d79-4506-820a-3cd98c6db0c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[2]/following::select[1]</value>
+      <webElementGuid>42460a05-2452-4aee-9f0c-7c4c9ae984cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[1]/following::select[1]</value>
+      <webElementGuid>f0fc06db-b831-4f4f-964b-4aa29e3a07e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[3]/preceding::select[1]</value>
+      <webElementGuid>85f3a133-949d-4379-8068-dea228dfdca6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[4]/preceding::select[1]</value>
+      <webElementGuid>1d312002-6550-47fb-8fa7-7d543d5aa2d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>f2469eef-f6e7-45d3-9b36-8db18bad3f75</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'type' and (text() = 'Select property typeApartmentDuplex/TriplexFourplexSingle Family HomeTownhouseCondo ApartmentCondo Duplex/TriplexCondo FourplexCondo Single Family HomeCondo Townhouse' or . = 'Select property typeApartmentDuplex/TriplexFourplexSingle Family HomeTownhouseCondo ApartmentCondo Duplex/TriplexCondo FourplexCondo Single Family HomeCondo Townhouse')]</value>
+      <webElementGuid>f847e6c1-3341-4093-beaa-7b2f7b532a3f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

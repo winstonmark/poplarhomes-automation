@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_ownership</name>
+   <tag></tag>
+   <elementGuidId>836213da-1ee1-4b8f-8afa-fc4d39efe5fd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@name='portfolio']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>select[name=&quot;portfolio&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>6a08e37d-c226-4d45-92ca-1a05cfbac639</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>portfolio</value>
+      <webElementGuid>ea928c41-eec3-4bd6-8dec-524f27951ba7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>input-select bg-white focus:outline-none h-14 py-4 px-5 text-base border focus:ring-pop-orange focus:border-pop-orange border-pop-gray-200</value>
+      <webElementGuid>fd93b48f-4bb2-46a2-8503-9d73c5ceec1b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select ownerTest Katalon</value>
+      <webElementGuid>f6fc7042-3a9b-44a2-b984-ca67c816b765</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;new-property&quot;]/div[@class=&quot;new-property flex flex-col items-center pt-6 sm:pt-20 p-4&quot;]/div[@class=&quot;pop-card box-border p-4 bg-white rounded-lg shadow mobile-l:py-8 mobile-l:px-6 w-full max-w-2xl mt-6 margin-auto mobile-l:px-8&quot;]/form[1]/fieldset[1]/div[@class=&quot;property-details&quot;]/div[@class=&quot;form-content mt-10&quot;]/div[@class=&quot;flex flex-col sm:flex-row sm:space-x-12 mb-2&quot;]/div[@class=&quot;input-select-wrapper mt-0 mb-2 flex-1&quot;]/div[@class=&quot;relative&quot;]/select[@class=&quot;input-select bg-white focus:outline-none h-14 py-4 px-5 text-base border focus:ring-pop-orange focus:border-pop-orange border-pop-gray-200&quot;]</value>
+      <webElementGuid>ae63a15a-5f82-4d88-83c1-7b929570fc5e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@name='portfolio']</value>
+      <webElementGuid>6cf8bf88-6900-4671-ad3a-5bce85254e7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/form/fieldset/div[2]/div/div[4]/div/div/select</value>
+      <webElementGuid>9f5fef16-ff5d-456d-8f97-e6d6b7788771</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[6]/following::select[1]</value>
+      <webElementGuid>c31a0789-c9be-4b65-9d01-c97a305b9d25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[5]/following::select[1]</value>
+      <webElementGuid>72d8e6fa-3e63-441c-8eae-1af0467f2433</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Next'])[1]/preceding::select[1]</value>
+      <webElementGuid>2d31484a-18d7-4f8d-afed-927b31ae8300</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Capture object:'])[1]/preceding::select[1]</value>
+      <webElementGuid>72a962b0-c171-4939-9c23-85d5d991531e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/select</value>
+      <webElementGuid>386d4460-9102-45c4-9d86-8064f9f1c2a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'portfolio' and (text() = 'Select ownerTest Katalon' or . = 'Select ownerTest Katalon')]</value>
+      <webElementGuid>d9f7dca0-0617-4ca2-9ef6-62dbd48beb17</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

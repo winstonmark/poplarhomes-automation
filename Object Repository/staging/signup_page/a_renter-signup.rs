@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_renter-signup</name>
+   <tag></tag>
+   <elementGuidId>967eb286-b3b9-409e-841d-b137f5d89c7a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app-content']/div[2]/div[2]/div/a[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>0b0eec2f-f3b5-42de-90cf-2c747d95809f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>card-selection</value>
+      <webElementGuid>a4220403-ea11-475f-b285-598e24fb3827</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/signup-renter</value>
+      <webElementGuid>7af5651e-2efa-4325-88a0-14b11ac0f236</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>FOR RENTERSI'm looking to rent a property</value>
+      <webElementGuid>4f9b3df3-63a1-4086-9f5c-26eab75a4996</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app-content&quot;)/div[@class=&quot;sc-jDwBTQ page-wrapper gZEdaR&quot;]/div[@class=&quot;sc-iRbamj panel-wrapper cPXkYZ&quot;]/div[@class=&quot;sc-gipzik selection-wrapper BDBWW&quot;]/a[@class=&quot;card-selection&quot;]</value>
+      <webElementGuid>35a71c13-359c-4842-be85-e0c343d6a5d4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app-content']/div[2]/div[2]/div/a[2]</value>
+      <webElementGuid>84a76da3-4443-4566-8082-611c703a3f8e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create an Account'])[1]/following::a[2]</value>
+      <webElementGuid>d3be95f0-9fa9-4d33-9e49-d74b319d4190</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Login'])[1]/preceding::a[1]</value>
+      <webElementGuid>b302db83-cf6c-44a0-8c7a-31fad731da03</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enter your Group ID'])[1]/preceding::a[2]</value>
+      <webElementGuid>771efbfc-84ca-4791-be12-ef614d0a8254</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/signup-renter')]</value>
+      <webElementGuid>e19981d4-2645-42e6-a5d0-34341610a5a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[2]</value>
+      <webElementGuid>63d1198e-3590-4d05-acf8-3037d898c8bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/signup-renter' and (text() = concat(&quot;FOR RENTERSI&quot; , &quot;'&quot; , &quot;m looking to rent a property&quot;) or . = concat(&quot;FOR RENTERSI&quot; , &quot;'&quot; , &quot;m looking to rent a property&quot;))]</value>
+      <webElementGuid>de089967-f2ab-446e-9316-ef5a8c2e245c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

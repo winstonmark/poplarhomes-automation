@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_owner-signup</name>
+   <tag></tag>
+   <elementGuidId>2065951d-e129-4a56-a023-2b2794a3f23e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app-content']/div[2]/div[2]/div/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.card-selection</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>dbc60c07-bbd0-4bd5-8b67-e5234563d8dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>card-selection</value>
+      <webElementGuid>f8b58bb6-51a8-486b-9881-0f98fe5e7be7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/owner/signup</value>
+      <webElementGuid>8dd18dec-520e-42ad-b7f8-3dff9aeb4bd3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>FOR OWNERSI want to lease my property</value>
+      <webElementGuid>433f35be-05c8-4bc6-b7d0-56c1ee66a372</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app-content&quot;)/div[@class=&quot;sc-jDwBTQ page-wrapper gZEdaR&quot;]/div[@class=&quot;sc-iRbamj panel-wrapper cPXkYZ&quot;]/div[@class=&quot;sc-gipzik selection-wrapper BDBWW&quot;]/a[@class=&quot;card-selection&quot;]</value>
+      <webElementGuid>8b1b4422-1abf-4e3a-a608-9a7bc6614046</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app-content']/div[2]/div[2]/div/a</value>
+      <webElementGuid>2bb846a9-d814-449a-8548-f75dfbc58f2e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create an Account'])[1]/following::a[1]</value>
+      <webElementGuid>9cceaf1c-6668-4879-9172-e6844f20f876</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Login'])[1]/preceding::a[2]</value>
+      <webElementGuid>051ae172-87cb-4ed7-aa50-80f5fe04502b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enter your Group ID'])[1]/preceding::a[3]</value>
+      <webElementGuid>7d735def-67e1-4b43-ad00-e0c5681384df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/owner/signup')]</value>
+      <webElementGuid>3a0ca040-5985-457c-9ebb-551855cbe690</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/a</value>
+      <webElementGuid>a4656dbb-c00c-4280-88eb-c92f2545ba9f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/owner/signup' and (text() = 'FOR OWNERSI want to lease my property' or . = 'FOR OWNERSI want to lease my property')]</value>
+      <webElementGuid>e9decdeb-799c-4291-b45e-aaec11994e58</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

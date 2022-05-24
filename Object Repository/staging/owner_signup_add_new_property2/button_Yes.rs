@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Yes</name>
+   <tag></tag>
+   <elementGuidId>0cf6ceb0-81f0-440a-9746-f19a541479a5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type='button']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>228db685-81d9-4d35-bf36-78d7808249a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-select flex-1 h-auto sm:h-14</value>
+      <webElementGuid>4e5b2203-9cb1-462b-ba18-b64a30dad7d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>5fe47376-7d42-493c-b3af-5160f1b2f232</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Yes, it's vacant</value>
+      <webElementGuid>564cfd23-0642-4ecd-8f66-3d42eb9c2f83</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;new-property&quot;]/div[@class=&quot;new-property flex flex-col items-center pt-6 sm:pt-20 p-4&quot;]/div[@class=&quot;pop-card box-border p-4 bg-white rounded-lg shadow mobile-l:py-8 mobile-l:px-6 w-full max-w-2xl mt-6 margin-auto mobile-l:px-8&quot;]/form[1]/fieldset[1]/div[@class=&quot;lease-details&quot;]/div[@class=&quot;form-content mt-10&quot;]/div[@class=&quot;button-select&quot;]/div[@class=&quot;items grid gap-2 mobile-l:grid-cols-2 sm:grid-cols-3 lg:grid-cols-max my-4&quot;]/button[@class=&quot;btn btn-select flex-1 h-auto sm:h-14&quot;]</value>
+      <webElementGuid>f8853f46-5436-470c-b0e4-017f20d5e0d6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@type='button']</value>
+      <webElementGuid>7fcdc3e7-7e5c-4dae-bee5-e16a2e9fdefe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/form/fieldset/div[2]/div/div[2]/div/button</value>
+      <webElementGuid>fb682ea6-c4c1-4033-9c6a-a43ba08660a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[3]/following::button[1]</value>
+      <webElementGuid>8b082ca5-fce2-409b-8313-b7ea32d46714</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No, I live here'])[1]/preceding::button[1]</value>
+      <webElementGuid>8a93bd6a-c0e9-4fc7-bcb5-0f85a11fef29</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No, renters live here'])[1]/preceding::button[2]</value>
+      <webElementGuid>fdcc49e7-5b05-43fb-ab5e-3beaf68d5eda</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>f4510176-8536-4d1e-8c56-2705a66c774d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = concat(&quot;Yes, it&quot; , &quot;'&quot; , &quot;s vacant&quot;) or . = concat(&quot;Yes, it&quot; , &quot;'&quot; , &quot;s vacant&quot;))]</value>
+      <webElementGuid>61eef5f7-12ff-4e44-a82d-f31cde8a80ed</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

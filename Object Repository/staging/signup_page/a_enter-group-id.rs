@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_enter-group-id</name>
+   <tag></tag>
+   <elementGuidId>52feb09a-5018-40aa-a9f0-e1e8700b87b4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app-content']/div[2]/div[2]/div[2]/p[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>47fa29e9-091f-4d7e-84f1-9d29497d7c03</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sc-jWBwVP or-link lesijo</value>
+      <webElementGuid>da7fbbe7-3671-4d14-8f3b-fc5ffabc8a2f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/join-group</value>
+      <webElementGuid>aeb47164-2453-4dd1-9578-289b6e88dd85</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Enter your Group ID</value>
+      <webElementGuid>970ce5fa-3a45-4bd9-99b5-06473677e18c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app-content&quot;)/div[@class=&quot;sc-jDwBTQ page-wrapper gZEdaR&quot;]/div[@class=&quot;sc-iRbamj panel-wrapper cPXkYZ&quot;]/div[@class=&quot;sc-csuQGl FooterWrapper ViCRR&quot;]/p[2]/a[@class=&quot;sc-jWBwVP or-link lesijo&quot;]</value>
+      <webElementGuid>e605c697-09f6-4aa6-a659-d2aea1215832</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app-content']/div[2]/div[2]/div[2]/p[2]/a</value>
+      <webElementGuid>850d441d-8eff-47a8-b1ae-9b29ed806f4a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Enter your Group ID')]</value>
+      <webElementGuid>60af98a9-f47c-461b-a9cb-24fa522df5b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Login'])[1]/following::a[1]</value>
+      <webElementGuid>ac262158-958c-4f39-97f4-35a455e0e034</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create an Account'])[1]/following::a[4]</value>
+      <webElementGuid>08ab650a-90af-445a-afe2-8084d74ba5fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Capture object:'])[1]/preceding::a[1]</value>
+      <webElementGuid>c58731af-c108-47a8-bbbb-a098d4f84d9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alt'])[1]/preceding::a[1]</value>
+      <webElementGuid>9d65519f-97ab-4866-8337-3bb3d928d27e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Enter your Group ID']/parent::*</value>
+      <webElementGuid>b3bb1674-65d1-4bfb-b9df-fd3c8d3ba25a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/join-group')]</value>
+      <webElementGuid>96a95b98-2e2c-4c88-a6f0-22c5e299426e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p[2]/a</value>
+      <webElementGuid>c527f494-305d-46d4-9d67-769f45487df5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/join-group' and (text() = 'Enter your Group ID' or . = 'Enter your Group ID')]</value>
+      <webElementGuid>04e02865-f27c-43c6-9cdc-a91c1f5e0b1f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
