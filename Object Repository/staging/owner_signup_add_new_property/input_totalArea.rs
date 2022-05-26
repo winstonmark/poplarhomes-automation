@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input__beds</name>
+   <name>input_totalArea</name>
    <tag></tag>
-   <elementGuidId>ff7e3d0b-8f69-4067-91fb-f1330ef96dd9</elementGuidId>
+   <elementGuidId>3ddea6da-8f00-41eb-85df-e927edf2371c</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//input[@name='beds']</value>
+         <value>//input[@name='totalArea']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>input[name=&quot;beds&quot;]</value>
+         <value>input[name=&quot;totalArea&quot;]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>7caf5d5f-b310-48da-9983-ed0e2f944fcf</webElementGuid>
+      <webElementGuid>e5c94ec2-3905-4471-a97b-e56c4286ef44</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>number</value>
-      <webElementGuid>89e1a56b-bfa5-45f2-8510-29a18ef3f7a7</webElementGuid>
+      <webElementGuid>0f9e22f0-a5fd-4f82-abdf-5dc0d927c75c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,62 +38,54 @@
       <name>class</name>
       <type>Main</type>
       <value>fs-mask container mt-0 mb-2 h-14 py-4 appearance-none box-border px-5 border rounded focus:outline-none focus:z-10 focus:ring-pop-orange focus:border-pop-orange border-pop-gray-200</value>
-      <webElementGuid>6b3dc7e3-2a25-4bb7-8a33-bec969a7f858</webElementGuid>
+      <webElementGuid>c1473521-fa9a-49b7-85e6-d1444992646a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>beds</value>
-      <webElementGuid>d7bbfcd8-fb81-41ce-b438-560bb581733f</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>value</name>
-      <type>Main</type>
-      <value>0</value>
-      <webElementGuid>6232d3d1-3a16-43b8-ae5c-1c795a809609</webElementGuid>
+      <value>totalArea</value>
+      <webElementGuid>9c1a0db2-c96c-4648-ae4b-84e7d3b6a59e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;root&quot;)/div[@class=&quot;new-property&quot;]/div[@class=&quot;new-property flex flex-col items-center pt-6 sm:pt-20 p-4&quot;]/div[@class=&quot;pop-card box-border p-4 bg-white rounded-lg shadow mobile-l:py-8 mobile-l:px-6 w-full max-w-2xl mt-6 margin-auto mobile-l:px-8&quot;]/form[1]/fieldset[1]/div[@class=&quot;property-details&quot;]/div[@class=&quot;form-content mt-10&quot;]/div[@class=&quot;name-inputs flex flex-col sm:flex-row sm:space-x-4 mb-2&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;input-field relative&quot;]/input[@class=&quot;fs-mask container mt-0 mb-2 h-14 py-4 appearance-none box-border px-5 border rounded focus:outline-none focus:z-10 focus:ring-pop-orange focus:border-pop-orange border-pop-gray-200&quot;]</value>
-      <webElementGuid>70951f79-457c-4dfb-b052-9ec977f75614</webElementGuid>
+      <value>id(&quot;root&quot;)/div[@class=&quot;new-property&quot;]/div[@class=&quot;new-property flex flex-col items-center pt-6 sm:pt-20 p-4&quot;]/div[@class=&quot;pop-card box-border p-4 bg-white rounded-lg shadow mobile-l:py-8 mobile-l:px-6 w-full max-w-2xl mt-6 margin-auto mobile-l:px-8&quot;]/form[1]/fieldset[1]/div[@class=&quot;property-details&quot;]/div[@class=&quot;form-content mt-10&quot;]/div[@class=&quot;name-inputs flex flex-col sm:flex-row sm:space-x-4 sm:mb-6&quot;]/div[@class=&quot;container flex-1&quot;]/div[@class=&quot;input-field relative&quot;]/input[@class=&quot;fs-mask container mt-0 mb-2 h-14 py-4 appearance-none box-border px-5 border rounded focus:outline-none focus:z-10 focus:ring-pop-orange focus:border-pop-orange border-pop-gray-200&quot;]</value>
+      <webElementGuid>9a9480ac-b1df-45ff-a9d1-183970e47d8f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@name='beds']</value>
-      <webElementGuid>38103797-3dc0-420f-a12c-e173525f6e10</webElementGuid>
+      <value>//input[@name='totalArea']</value>
+      <webElementGuid>2ed24681-06bf-499c-9bf9-2936cc3086da</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='root']/div/div/div[2]/form/fieldset/div[2]/div/div[3]/div/div/input</value>
-      <webElementGuid>db9fb7f0-d379-4ac9-8443-e750e87909f8</webElementGuid>
+      <value>//div[@id='root']/div/div/div[2]/form/fieldset/div[2]/div/div[2]/div[2]/div/input</value>
+      <webElementGuid>b41184b2-69a1-4ec3-9b4e-d3878b313ff1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[3]/div/div/input</value>
-      <webElementGuid>18e57fb8-6aa6-4c67-938b-583b292eccfb</webElementGuid>
+      <value>//div[2]/div[2]/div/input</value>
+      <webElementGuid>33645622-575d-4191-9e5b-f262274b3a0b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'number' and @name = 'beds']</value>
-      <webElementGuid>b408d511-9be7-464d-a324-00a1bc3c7b4c</webElementGuid>
+      <value>//input[@type = 'number' and @name = 'totalArea']</value>
+      <webElementGuid>ca4818c7-6c30-447f-b504-a25ef5cd0c3e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

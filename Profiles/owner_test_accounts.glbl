@@ -9,4 +9,54 @@
       <initValue>'winston+ownerdupefix1@poplarhomes.com'</initValue>
       <name>test_owner1</name>
    </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'winston+signupowner1@poplarhomes.com'</initValue>
+      <name>test_owner_signup1</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'winston+signupowner2@poplarhomes.com'</initValue>
+      <name>test_owner_signup2</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'winston+signupowner3@poplarhomes.com'</initValue>
+      <name>test_owner_signup3</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'winston+signupowner4@poplarhomes.com'</initValue>
+      <name>test_owner_signup4</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'winston+signupowner5@poplarhomes.com'</initValue>
+      <name>test_owner_signup5</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'winston+signupowner6@poplarhomes.com'</initValue>
+      <name>test_owner_signup6</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'winston+signupowner7@poplarhomes.com'</initValue>
+      <name>test_owner_signup7</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'winston+signupowner8@poplarhomes.com'</initValue>
+      <name>test_owner_signup8</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'winston+signupowner9@poplarhomes.com'</initValue>
+      <name>test_owner_signup9</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'winston+signupowner10@poplarhomes.com'</initValue>
+      <name>test_owner_signup10</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>

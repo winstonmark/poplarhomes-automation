@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input__baths</name>
+   <name>input_baths</name>
    <tag></tag>
    <elementGuidId>976a2d71-7cf3-4eea-8e39-64c5b82c423c</elementGuidId>
    <selectorCollection>
